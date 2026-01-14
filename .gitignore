@@ -1,0 +1,26 @@
+# Visual Studio / MSBuild
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# Debug files
+*.pdb
+*.ipch
+
+# NuGet
+packages/
+*.nupkg
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+temp/
